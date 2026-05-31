@@ -5,7 +5,7 @@
 # Name: Appiah-Kubi Samuel Obeng
 # STUDENT ID: 2425401187
 # Email: appiahkubisamuel210@gmail.com
-# Grader: Augustus
+# Grader: Mr. Augustus Buckman
 #
 # On my honor, Appiah-Kubi Samuel Obeng, this programming assignment is my own work
 # and I have not provided this code to any other student.
